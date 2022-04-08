@@ -4,4 +4,4 @@ root: ./
 redirects:  
     previous/page: new-folder/page.md
     support.md: help/contact
-    redir-test-2/redir-sub-2: redir-test-1.md
+    help/contact: redir-test-1.md
