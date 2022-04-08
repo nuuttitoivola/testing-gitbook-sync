@@ -1,1 +1,2 @@
-redirect-test: startpage.com
+redirects:
+  redirect-test: redirect-test-new.md
