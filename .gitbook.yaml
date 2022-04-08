@@ -1,2 +1,7 @@
-redirects:
-  redirect-test: redirect-test-new.md
+root: ./
+
+
+redirects:  
+    previous/page: new-folder/page.md
+    support.md: help/contact
+    redir-test-2/redir-sub-2: redir-test-1.md
